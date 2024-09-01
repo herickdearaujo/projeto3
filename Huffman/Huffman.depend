@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723677740 source:c:\users\noteb\onedrive\documentos\code blocks\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
